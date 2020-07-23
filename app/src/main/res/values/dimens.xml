@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="tile_width">65dp</dimen>
+    <dimen name="tile_height">65dp</dimen>
+    <dimen name="linearLayout_margins">10dp</dimen>
+    <dimen name="progressBar_width">38dp</dimen>
+    <dimen name="progressBar_height">15dp</dimen>
+    <dimen name="textHealth_width">25dp</dimen>
+    <dimen name="textHealth_height">15dp</dimen>
+    <dimen name="textHealth_size">2.5dp</dimen>
+    <dimen name="textHealth_rightMargin">2dp</dimen>
+
+</resources>

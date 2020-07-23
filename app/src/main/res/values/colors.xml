@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4C4C4C</color>
+    <color name="colorPrimaryDark">#1C1C1C</color>
+    <color name="colorAccent">#0FA7E3</color>
+    <color name="tileDefault">#88777777</color>
+    <color name="tileAvailable">#CA69FF70</color>
+    <color name="unitSelected">#2B9CFF</color>
+    <color name="unitBar">#4FACACAC</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="playerTable">#B386CAFF</color>
+    <color name="opponentTable">#BCFD7E7E</color>
+    <color name="healthBar">#59FF9E</color>
+    <color name="unitVulnerable">#FF3B3B</color>
+    <color name="linearLayoutTextBackground">#7BA1A1A1</color>
+    <color name="textYourTurn">#CC2121</color>
+    <color name="textWaiting">#1B74BA</color>
+    <color name="attackedColorTint">#98F65151</color>
+    <color name="dialog_background">#393939</color>
+    <color name="white">#FFFFFF</color>
+    <color name="textWinner">#FFF16F</color>
+    <color name="btnBlue">#1A9CFF</color>
+    <color name="btnRed">#FF4545</color>
+    <color name="btnYellow">#FFD75F</color>
+    <color name="gold">#FFD965</color>
+    <color name="card_unit_background">#FFFFFF</color>
+    <color name="common">#808080</color>
+    <color name="uncommon">#348F24</color>
+    <color name="rare">#346EFF</color>
+    <color name="legendary">#FFD965</color>
+
+
+</resources>
